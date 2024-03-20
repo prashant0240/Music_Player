@@ -1,0 +1,17 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#008EFF</item>
+        <item name="colorPrimaryDark">#008EFF</item>
+        <item name="colorAccent">@color/white</item>
+    </style>
+    <style name="AppMusicPlayerTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#008EFF</item>
+        <item name="colorPrimaryDark">#008EFF</item>
+        <item name="colorAccent">@color/white</item>
+    </style>
+</resources>
+
+    <!-- Base application theme. -->

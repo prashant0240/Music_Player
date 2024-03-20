@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@android:id/background">
+        <shape android:shape="rectangle"
+            >
+            <!-- Background line color -->
+            <solid android:color="#a8a2a2" />
+            <!-- You can define other properties like corner radius, stroke, etc. here -->
+        </shape>
+    </item>
+</layer-list>
